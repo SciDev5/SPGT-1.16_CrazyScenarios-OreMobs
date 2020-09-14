@@ -1,0 +1,4 @@
+name: OreMobs
+version: 1.0
+main: me.scidev.crazyScenarios.oreMobs.Plugin
+api-version: 1.16
